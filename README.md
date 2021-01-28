@@ -9,9 +9,8 @@
 <img align="left" alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <br/>
-
-### API that are used:
 <br/>
+### API that are used:
 1: [Random Person][rp]
 
 2: [Joeschmoe][joeschmoe]
@@ -25,5 +24,5 @@ I started this Project on 20/1/2021 Wednesday.
 ### Other:
 if you have any other idea to add in this project you can folk it and make more interactive.
 
-[rp]:https://randomuser.me/api/
+[rp]:https://randomuser.me/api
 [joeschmoe]:https://joeschmoe.io
