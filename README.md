@@ -11,8 +11,7 @@
 <br/>
 
 ### API that are used:
-
-
+<br/>
 1: [Random Person][rp]
 
 2: [Joeschmoe][joeschmoe]
@@ -25,9 +24,6 @@ I started this Project on 20/1/2021 Wednesday.
 
 ### Other:
 if you have any other idea to add in this project you can folk it and make more interactive.
-
-[rp]:https://randomuser.me/api/
-[joeschmoe]:https://joeschmoe.iove.
 
 [rp]:https://randomuser.me/api/
 [joeschmoe]:https://joeschmoe.io
